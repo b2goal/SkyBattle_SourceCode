@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427176634231",
+    "firebase_url": "https://fir-1-9c1ff.firebaseio.com",
+    "project_id": "fir-1-9c1ff",
+    "storage_bucket": "fir-1-9c1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427176634231:android:ac11257215ed66d8",
+        "android_client_info": {
+          "package_name": "com.galaxystrikeforce.airfighter.spacefighter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427176634231-5kueeern4n1dvdenm060aikvher38hq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtN3kKgGEF3SL7fSazwYbhmJRSxJGD9YQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
