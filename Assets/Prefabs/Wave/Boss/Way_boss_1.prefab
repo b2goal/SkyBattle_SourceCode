@@ -794,7 +794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _BulletPrefab: {fileID: 1000013520700298, guid: f2b3ab44ca60a964e8962104abd71ee5,
     type: 2}
-  _BulletNum: 50
+  _BulletNum: 25
   _BulletSpeed: 2
   _AccelerationSpeed: -2
   _AccelerationTurn: 0

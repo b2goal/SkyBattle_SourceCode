@@ -29,7 +29,7 @@ public class UbhCircleShot : UbhBaseShot
                 break;
             }
 
-            float angle = shiftAngle * i;
+            float angle = -90 +shiftAngle * i;
 
             ShotBullet(bullet, _BulletSpeed, angle);
 
